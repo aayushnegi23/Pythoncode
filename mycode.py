@@ -1,0 +1,2 @@
+k = 'welcome'
+print(k)
